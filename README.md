@@ -1,4 +1,4 @@
-# payrollApp
+# salaries-managment-app
 simple laravel CRUD application to handle employees payroll
 
 
